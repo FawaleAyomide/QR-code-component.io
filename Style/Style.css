@@ -12,6 +12,7 @@ body {
   height: 100vh;
   background-color: hsl(212, 45%, 89%);
   font-size: 15px;
+  font-family: "Outfit", sans-serif;
 }
 .container {
   display: flex;
@@ -34,7 +35,6 @@ body {
 }
 .container > h2 {
   color: hsl(218, 44%, 22%) !important;
-  font-family: "Outfit", sans-serif;
   margin: 1rem 0.8rem;
   margin-top: 1.5rem !important;
   padding: 2px 5px;
@@ -43,7 +43,6 @@ body {
 }
 .container > p {
   padding: 2px 15px;
-  font-family: "Outfit", sans-serif;
   color: hsl(220, 15%, 55%);
   font-weight: 400 !important;
   margin: 0 1rem;
