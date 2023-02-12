@@ -16,8 +16,6 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  margin: auto !important;
-  margin-top: 7rem !important;
   padding-bottom: 2rem !important;
   justify-content: center;
   align-items: center;
