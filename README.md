@@ -46,7 +46,3 @@ I'd personally like to concentrate on mobile reponsiveness thereby ensuring ther
 - Website - (https://qr-code-component-seven-rouge.vercel.app/HTML)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/FawaleAyomide)
 - Twitter - (https://www.twitter.com/fawaleoladele)
-
-## Acknowledgments
-
-I'd like to appreciate my mentor and also a colleage that contributed and showed more insights in achieving and completing this challenge. Thank you.
